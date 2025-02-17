@@ -10,9 +10,9 @@
             <key>EncryptionType</key>
             <string>WPA2</string>
             <key>SSID_STR</key>
-            <string>FRITZ!Box 7430 DS</string>
+            <string>Your SSID</string>
             <key>Password</key>
-            <string>Maurizio@83</string>
+            <string>YOUR PASSWORD</string>
         </dict>
     </array>
     <key>PayloadDisplayName</key>
